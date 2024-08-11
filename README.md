@@ -1,9 +1,10 @@
 # Non-Invasive Blood Glucose Measurement Device
+<img src="IMG_20240406_144649.jpg" width="300" height="300"/>
+
 
 ## Overview
 
 The non-invasive blood glucose measurement device utilizes NIR (Near Infrared) spectroscopy to estimate glucose levels without invasive blood sampling. Here are the main components:
-image("")
 1. **MAX30100 Sensor:**
    - The heart of the device, the MAX30100 sensor, serves as a pulse oximeter.
    - It features both a Red LED and an IR LED.
