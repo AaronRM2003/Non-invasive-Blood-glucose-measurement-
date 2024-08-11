@@ -35,6 +35,7 @@ The non-invasive blood glucose measurement device utilizes NIR (Near Infrared) s
 
 3. **Heart Rate Monitoring:**
    - The device provides real-time heart rate measurements.
+<img src="IMG_20240304_212432.jpg" width="300" height="300"/>
 
 ## Future Improvements
 
