@@ -49,5 +49,3 @@ The non-invasive blood glucose measurement device utilizes NIR (Near Infrared) s
 ## Conclusion
 
 The non-invasive blood glucose measurement device combines hardware components and Arduino programming to revolutionize glucose monitoring. Its IoT-based approach offers a hygienic and user-friendly alternative to traditional methods.
-
-Feel free to customize this README with additional details, installation instructions, and usage guidelines. Good luck with your project! 🌟
